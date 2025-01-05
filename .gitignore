@@ -2,3 +2,7 @@
 /.phpunit.result.cache
 /composer.lock
 /bin
+.idea
+.env.test
+phpunit.xml
+tests/Fixtures/app/var/
